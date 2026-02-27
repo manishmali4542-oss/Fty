@@ -1,0 +1,5 @@
+{
+  "name": "ExamCraft MCQ Generator",
+  "description": "Generate high-quality, exam-oriented MCQs from your study materials (PDFs and images) using AI.",
+  "requestFramePermissions": ["camera"]
+}
